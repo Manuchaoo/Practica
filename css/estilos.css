@@ -13,3 +13,9 @@ p{
 	background-color: yellowgreen;
 	border-radius: 30px;
 }
+#tercerParrafo{
+	color: rgb(239, 225, 236);
+	background-color: rgb(200, 214, 40);
+	border: 30px double;
+	border-color: aqua;
+}
