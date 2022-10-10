@@ -19,3 +19,8 @@ p{
 	border: 30px double;
 	border-color: aqua;
 }
+#cuartoParrafo{
+	color: rgb(239, 225, 236);
+	border:dotted 35px;
+	border-color: rgb(2, 169, 77);
+}
